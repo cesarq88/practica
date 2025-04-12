@@ -1,0 +1,11 @@
+h1 {color :red ;}
+p{color:purple}
+.titulos{color:blue ;}
+#segundoparrafo {color : green;}
+.caja{
+    border: 5px solid black;
+    margin: 30px;
+}
+.contenido{
+    border: 5px solid black;
+}
